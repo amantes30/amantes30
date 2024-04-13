@@ -6,9 +6,9 @@
 
 
 # Hiii 🥳 Welcome! I'm Aman
-- 👨‍🎓 I have completed my bachelor's degree in Software Engineering and Management
-- 👨‍💻 I have had experience with Game Developement, Web development through internships and online courses.
-- 🕵️‍♂️ I’m currently pursuing my master's degree in Computer Science, my research study is on Automated software testing.
+- 👨‍🎓 completed my bachelor's degree in Software Engineering and Management
+- 👨‍💻 had experience with Game Developement, Web development through internships and online courses.
+- 🕵️‍♂️ currently pursuing my master's degree in Computer Science, my research study is on Automated software testing.
 
 By the way, Feel free to check out my <a href="https://amantes30.com">portfolio</a> and some of the projects I've made public here. Let's hope you find something useful 😉
 
