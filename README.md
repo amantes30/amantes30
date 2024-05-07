@@ -13,7 +13,7 @@
 By the way, Feel free to check out my <a href="https://amantes30.com">portfolio</a> and some of the projects I've made public here.😉
 
 <details> 
-<summary>My hobbies</summary>
+<summary>Hobbies</summary>
   <ul>
    <li>Valorant</li>
    <li>Blender Object Modeling</li>
