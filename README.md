@@ -4,4 +4,4 @@
  <img width= 100% alt="logo-img" src="https://amantes30.github.io/icons/GIF/amantes30.gif">
 </picture>
 
- Software Engineering graduate Passionate about learning new technologies and building innovative, scalable applications.
+ <h1>!Software Engineer</h1>
