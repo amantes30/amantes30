@@ -4,5 +4,5 @@
  <img width= 100% alt="logo-img" src="https://amantes30.github.io/icons/GIF/amantes30.gif">
 </picture>
 
- <h1>!Software Engineer</h1>
- <h1>!Ethical Hacker</h1>
+ <h2>!Software Engineer</h2>
+ <h2>!Ethical Hacker</h2>
